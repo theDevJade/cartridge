@@ -1,7 +1,7 @@
 use anyhow::Result;
 use clap::Parser;
 
-use cartridge::{start, utils, ToolArgs};
+use cartridgemc::{start, utils, ToolArgs};
 use cliclack::*;
 
 
